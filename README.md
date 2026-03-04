@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🩺 PREDİABET-TR: Sağlık Takip Uygulaması
+PREDİABET-TR, kullanıcıların diyabet riskini yönetmelerine, günlük fiziksel aktivitelerini ve beslenmelerini takip etmelerine yardımcı olmak amacıyla geliştirilmiş modern bir sağlık asistanıdır.
 
-# Run and deploy your AI Studio app
+🚀 Uygulama Özeti
+Bu proje, tip-2 diyabet risk faktörlerini erken aşamada tespit etmek ve sağlıklı yaşam alışkanlıklarını teşvik etmek için tasarlanmıştır. Kullanıcılar uygulama üzerinden FINDRISK testini çözebilir, vücut kitle endekslerini (BKİ) hesaplayabilir ve günlük adım sayılarını takip edebilirler.
 
-This contains everything you need to run your app locally.
+✨ Temel Özellikler
+Dinamik Sağlık Puanı: Kullanıcının aktivite ve risk verilerine dayalı anlık sağlık durumu takibi.
 
-View your app in AI Studio: https://ai.studio/apps/877501b7-c649-4b95-9611-aaa671778430
+FINDRISK Risk Testi: Bilimsel tabanlı sorularla diyabet risk analizi.
 
-## Run Locally
+Adımsayar (Pedometer): Günlük hareket hedefleri ve geçmiş kayıtlar.
 
-**Prerequisites:**  Node.js
+BKİ Hesaplayıcı: Boy ve kilo verileriyle anlık vücut analizi.
 
+Besin Takip Sistemi: Kategori bazlı kalori ve besin kaydı.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Modern Arayüz: Karanlık mod desteği ve Tailwind CSS ile geliştirilmiş estetik tasarım.
+
+📱 Expo Go ile Hemen Test Edin
+Uygulamayı herhangi bir kurulum yapmadan doğrudan telefonunuzda görüntüleyebilirsiniz:
