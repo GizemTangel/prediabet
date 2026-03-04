@@ -1,0 +1,7 @@
+{
+  "name": "Prediabet-TR",
+  "description": "Diyabet riskini yönetmek ve sağlıklı yaşam takibi yapmak için tasarlanmış mobil sağlık asistanı.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
